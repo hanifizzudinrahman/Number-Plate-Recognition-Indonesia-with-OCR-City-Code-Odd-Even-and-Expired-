@@ -3,6 +3,19 @@
 
 # Youtube: https://youtu.be/GVetkPFUeGo
 
+- The Number Plate Images is taken with ideal position, means there is no different angle and the distance between camera is very short
+- Using EasyOCR
+- Add some feature Autocorrect for wrong City Code Recognition, and Number in Expired Date
+- Can find out where City comes from
+
+- Can Detect a Violation such as
+1. Odd/Even
+2. Expired Date
+
+The Next Challenge
+-> Different Angles (*Solution: Warp Perspective)
+-> Different Distance (*Solution: Number Plate Detection)
+
 1. Odd/Even Violation
 ![Odd-Even Violation](https://user-images.githubusercontent.com/47806867/136880596-26851136-6b1a-48af-984b-6234b1edd479.png)
 
